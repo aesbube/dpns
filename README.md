@@ -1,1 +1,1 @@
-DPNS (Digital Image Processing) homeworks and project 2023/2024
+DPNS (Digital Image Processing) homeworks 2023/2024
